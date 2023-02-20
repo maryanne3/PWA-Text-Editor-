@@ -23,11 +23,6 @@ GIVEN a text editor web application,
 WHEN I open my application in my editor
 THEN I should see a client server folder structure
 
- Screenshot of the text editor - (J.A.T.E):
-
-
-![Alt text](../../../../OneDrive/Downloads/Web%20capture_20-2-2023_224839_localhost.jpeg)
-
 
 
  ## Technologies used 
